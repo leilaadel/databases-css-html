@@ -1,0 +1,8 @@
+.header{
+}
+.logo{
+  display: inline-block;
+}
+.slogan{
+  display: inline-block;
+}

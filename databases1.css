@@ -1,0 +1,75 @@
+.header{
+  display: inline-block;
+}
+.logo{
+  display: inline;
+}
+.slogan{
+  display: inline;
+  vertical-align: top;
+    margin-left: 25em;
+}
+h3{
+  display: inline;
+}
+.menu{
+  height: 21px;
+  width: 900px;
+  display: inline;
+  vertical-align: top;
+}
+table, th{
+  border:1px solid black;
+}
+.wrapper{
+  display: block;
+  height: 600px;
+  width: 900px;
+  background: purple;
+  padding: 10px;
+}
+.main1{
+  border: 5px solid silver;
+  display: inline-block;
+}
+.main-content{
+  display: inline-block;
+  background: linear-gradient(to bottom right, silver, dimgray);
+  margin-left: 15px;
+  vertical-align: top;
+  line-height: 2.5px;
+}
+.mainc1{
+  background: linear-gradient(silver, dimgray, silver);
+  height: 5px;
+  padding: 10px;
+}
+.linkline{
+  text-align: right;
+  display: inline;
+  margin: 0px;
+}
+.main-boxes{
+  margin-top: 0px;
+}
+.mb1{
+  display: inline-block;
+  background: linear-gradient(to bottom right, silver, dimgray);
+  margin: 5px;
+  height: 345px;
+  width: 212px;
+  vertical-align: top;
+}
+.mb2{
+  background: linear-gradient(silver, dimgray, silver);
+  padding: 5px;
+}
+button{
+  color: white;
+  background-color: blue;
+  border: 2px solid black;
+  border-radius: 4px;
+  box-shadow:2px 3px 1px black;
+  margin-left: 110px;
+  margin-bottom: 10px;
+}
